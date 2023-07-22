@@ -1,1 +1,2 @@
-# feladat
+# kő, papir, olló 
+
