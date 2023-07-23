@@ -1,2 +1,2 @@
-# kő, papir, olló 
+# kő, papir, olló  -kpo.py 
 
