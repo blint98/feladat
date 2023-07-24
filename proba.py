@@ -8,3 +8,4 @@ while True:
 
     except ValueError:
         print("Érvénytelen bemenet. Kérem adjon meg csak számokat és szóközöket!")
+                                                            
